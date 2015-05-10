@@ -1,0 +1,36 @@
+{ "_id" : ObjectId("554d331fac38e01407830eb8"), "body" : "Hello world", "permalink" : "helloworld", "author" : "Tom Hanks", "title" : "Hello doing good", "tags" : [ "january", "mine", "modem", "literature", "saudi arabia", "rate", "package", "respect", "bike", "cheetah" ], "comments" : [ { "body" : "It is awesome", "email" : "tom.hanks@gmail.com", "author" : "Tom Hanks" }, { "body" : "It is very good post", "email" : "janet.jackson@gmail.com", "author" : "Janet Jackson" } ] }
+
+
+
+<post>
+<permalink>helloworld</permalink>
+<author>Tome Hanks</author>
+<title>Hello world</title>
+<postdate>
+<date>20150510</date>
+<time>141500</time>
+</postdate>
+<body>This is my first blog to publish</body>
+<comments>
+<comment>
+<body>Best blog ever read</body>
+<author>Tomy Hilfiger</author>
+<email>tomy.tilfiger@gmail.com</email>
+<views>2</views>
+</comment>
+<comment>
+<body>Awesome blog ever</body>
+<author>Janet Jackson</author>
+<email>janet.jackson@gmail.com</email>
+<views>5</views>
+</comment>
+</comments>
+<tags>
+<tag>
+<tagname>Hello</tagname>
+</tag>
+<tag>
+<tagname>Hi</tagname>
+</tag>
+</tags>
+</post>
